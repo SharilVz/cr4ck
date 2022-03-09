@@ -3,7 +3,7 @@ Scrip ini di jamin 100% free tidak boleh di perjual  belikan !
 $ install on termux
 $ pkg install git
 $ pkg install python2
-$ git clone https://github.com/khamdihi/cr4ck
+$ git clone https://github.com/Syahril/cr4ck
 $ cd cr4ck
 $ python2 crack.py
 
